@@ -156,6 +156,10 @@ p {
   padding: 100px;
 }
 
+div.card:hover {
+  transform: scale(1.2); 
+  }
+
 .card-title {
   font-family: 'Lora', serif;
   font-weight: 500;
